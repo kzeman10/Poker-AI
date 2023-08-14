@@ -1,0 +1,16 @@
+100
+club 2
+spade 2
+1
+1
+club 4
+club 3
+diamond 2
+1
+1
+spade 9
+1
+1
+club 10
+1
+1
